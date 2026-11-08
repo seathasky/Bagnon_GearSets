@@ -1,0 +1,12 @@
+.release/
+.vscode/
+.idea/
+tests/
+__pycache__/
+*.py[cod]
+*.zip
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store

@@ -1,0 +1,12 @@
+## Interface: 120105, 16001
+## Title: Bagnon |cffffffffGear Sets|r
+## Notes: Named equipment-set sections and item labels for Bagnon.
+## Author: Seathasky
+## Version: 1.0.0
+## Dependencies: Bagnon
+## SavedVariables: BagnonGearSetsDB
+## Category: Bags & Inventory
+## Group: BagBrother
+
+GearSets.lua
+Config.lua

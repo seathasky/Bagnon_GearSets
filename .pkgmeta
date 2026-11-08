@@ -1,0 +1,23 @@
+package-as: Bagnon_GearSets
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+required-dependencies:
+  - bagnon
+
+ignore:
+  - .github
+  - .gitignore
+  - .gitattributes
+  - .pkgmeta
+  - .vscode
+  - .idea
+  - .release
+  - .env
+  - .env.*
+  - __pycache__
+  - Thumbs.db
+  - .DS_Store
+  - tests
